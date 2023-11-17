@@ -1,6 +1,6 @@
 [submodule "frontend"]
     path = foodcom_frontend
     url = https://github.com/abroroo/foodcom_frontend.git
-[submodule "backend"]
-    path = foodcom_backend
-    url = https://github.com/abroroo/foodcom_backend.git
+[submodule "foodcom_backend"]
+	path = foodcom_backend
+	url = https://github.com/abroroo/foodcom_backend.git
